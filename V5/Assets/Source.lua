@@ -2371,9 +2371,9 @@ function library:AddSettings()
 		self:Destroy()
 	end })
 	local Credits = settingstab:AddSection({ Content = "Credits" , Open = true,Right = true })
-    Credits:AddLabel({ Content = "Discord - xidm", Flag = "Credit1"})
-    Credits:AddLabel({ Content = "Discord - vestra_shots", Flag = "Credit2"})
-    Credits:AddLabel({ Content = "Discord - outhall", Flag = "Credit2"})
+    Credits:AddLabel({ Content = "Discord - 1440x1080_", Flag = "Credit1"})
+    Credits:AddLabel({ Content = "Discord - drugxdd", Flag = "Credit2"})
+    Credits:AddLabel({ Content = "Discord - ineed5", Flag = "Credit2"})
     self:LoadConfig("Default")
 end
 --[[ Return ]]--
